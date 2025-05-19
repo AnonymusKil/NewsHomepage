@@ -220,7 +220,7 @@ button:hover {
 
 @media (min-width: 1024px) {
   section {
-    flex-direction: row;
+    flex-direction: row-reverse;
     align-items: center;
     padding: 1.3rem;
     margin: auto;
